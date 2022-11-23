@@ -1,65 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="84" height="84" version="1">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84" height="84" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs id="defs3644">
   <linearGradient id="linearGradient4215-49">
-   <stop id="stop4217-5" offset="0" style="stop-color:#000000;stop-opacity:0.184"/>
-   <stop id="stop4223-8" offset="1" style="stop-color:#000000;stop-opacity:0"/>
+   <stop id="stop4217-5" stop-opacity=".184" offset="0"/>
+   <stop id="stop4223-8" stop-opacity="0" offset="1"/>
   </linearGradient>
-  <radialGradient id="radialGradient4275" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(-1.6187099e-5,-1.4117565,1.4117775,-1.618734e-5,-1261.1539,1406.183)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
-  <linearGradient id="linearGradient4271" x1="83.6" x2="83.6" y1="-969.362" y2="-957.362" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
-  <radialGradient id="radialGradient3382" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(7.8257357e-6,1.411771,-1.4117668,7.8257123e-6,1345.1525,-1322.1898)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
-  <linearGradient id="linearGradient4259" x1="83.6" x2="83.6" y1="-969.362" y2="-957.362" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
+  <radialGradient id="radialGradient4275" cx="984" cy="905.36" r="8.5" gradientTransform="matrix(-1.6187e-5 -1.4118 1.4118 -1.6187e-5 -1261.2 1406.2)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
+  <linearGradient id="linearGradient4271" x1="83.6" x2="83.6" y1="-969.36" y2="-957.36" gradientTransform="matrix(.71429 0 0 1 -317.71 1250.4)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
+  <radialGradient id="radialGradient3382" cx="984" cy="905.36" r="8.5" gradientTransform="matrix(7.8257e-6 1.4118 -1.4118 7.8257e-6 1345.2 -1322.2)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
   <linearGradient id="linearGradient4452" x1="-260" x2="-260" y1="281" y2="293" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
-  <linearGradient id="linearGradient4283" x1="83.6" x2="83.6" y1="-969.362" y2="-957.362" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
-  <radialGradient id="radialGradient4255" cx="982.909" cy="906.453" r="8.5" fx="982.909" fy="906.453" gradientTransform="matrix(1.4117577,5.5406049e-6,-5.5406032e-6,1.4117573,-1320.6245,-1262.6973)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
-  <radialGradient id="radialGradient4263" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(-1.411767,-9.899721e-6,9.8996845e-6,-1.4117618,1406.1698,1345.1655)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
+  <radialGradient id="radialGradient4255" cx="982.91" cy="906.45" r="8.5" gradientTransform="matrix(1.4118 5.5406e-6 -5.5406e-6 1.4118 -1320.6 -1262.7)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
+  <radialGradient id="radialGradient4263" cx="984" cy="905.36" r="8.5" gradientTransform="matrix(-1.4118 -9.8997e-6 9.8997e-6 -1.4118 1406.2 1345.2)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
  </defs>
- <rect style="fill:#2f343f" id="decoration-center" width="50" height="50" x="17" y="17"/>
+ <rect id="decoration-center" x="17" y="17" width="50" height="50" fill="#2f343f"/>
  <g id="decoration-bottomleft">
-  <path d="m 17,84 0,-10 -2,0 c -2.77,0 -5,-2.23 -5,-5 l 0,-2 -10,0 0,17 z" style="fill:url(#radialGradient4263)" />
-  <path style="fill:#2f343f"  d="m 10.9,67 v 2 c 0,2.233297 1.869489,4.211526 4.1,4.1 h 2 V 67 Z"/>
-  <path style="fill:#272a33"  d="M 10 67 L 10 69 C 10 71.77 12.23 74 15 74 L 17 74 L 17 73 L 15 73 C 12.766703 73 11 71.233297 11 69 L 11 67 L 10 67 z"/>
+  <path d="m17 84v-10h-2c-2.77 0-5-2.23-5-5v-2h-10v17z" fill="url(#radialGradient4263)"/>
+  <path d="m10.9 67v2c0 2.2333 1.8695 4.2115 4.1 4.1h2v-6.1z" fill="#2f343f"/>
+  <path d="m10 67v2c0 2.77 2.23 5 5 5h2v-1h-2c-2.2333 0-4-1.7667-4-4v-2h-1z" fill="#272a33"/>
  </g>
  <g id="decoration-left">
-  <g  transform="matrix(-1,0,0,1,298,-240)">
-   <rect width="50" height="10" x="-307" y="288" transform="matrix(0,-1,1,0,0,0)" style="fill:url(#linearGradient4271)" />
+  <g transform="matrix(-1,0,0,1,298,-240)">
+   <rect transform="rotate(-90)" x="-307" y="288" width="50" height="10" fill="url(#linearGradient4271)"/>
   </g>
-  <path style="fill:#2f343f"  d="M 10.9,17 V 67 H 17 V 17 Z"/>
-  <path style="fill:#272a33"  d="M 10 17 L 10 67 L 11 67 L 11 17 L 10 17 z"/>
+  <path d="m10.9 17v50h6.1v-50z" fill="#2f343f"/>
+  <path d="m10 17v50h1v-50h-1z" fill="#272a33"/>
  </g>
  <g id="decoration-right">
-  <g  transform="translate(-214,-240)">
-   <rect width="50" height="10" x="-307" y="288" transform="matrix(0,-1,1,0,0,0)" style="fill:url(#linearGradient4452)" />
+  <g transform="translate(-214,-240)">
+   <rect transform="rotate(-90)" x="-307" y="288" width="50" height="10" fill="url(#linearGradient4452)"/>
   </g>
-  <path style="fill:#2f343f"  d="m 67,17 v 50 h 6.1 V 17 Z"/>
-  <path style="fill:#272a33"  d="M 73 17 L 73 67 L 74 67 L 74 17 L 73 17 z"/>
+  <path d="m67 17v50h6.1v-50z" fill="#2f343f"/>
+  <path d="m73 17v50h1v-50h-1z" fill="#272a33"/>
  </g>
  <g id="decoration-bottom">
-  <g  transform="matrix(0,1,-1,0,324,-214)">
-   <rect width="50" height="10" x="-307" y="288" transform="matrix(0,-1,1,0,0,0)" style="fill:url(#linearGradient4259)" />
+  <g transform="matrix(0,1,-1,0,324,-214)">
+   <rect transform="rotate(-90)" x="-307" y="288" width="50" height="10" fill="url(#linearGradient4271)"/>
   </g>
-  <path style="fill:#2f343f"  d="m 17,67 v 6.1 H 67 V 67 Z"/>
-  <path style="fill:#272a33"  d="M 17 73 L 17 74 L 67 74 L 67 73 L 17 73 z"/>
+  <path d="m17 67v6.1h50v-6.1z" fill="#2f343f"/>
+  <path d="m17 73v1h50v-1h-50z" fill="#272a33"/>
  </g>
  <g id="decoration-bottomright">
-  <path d="m 84,67 -10,0 0,2 c 0,2.77 -2.23,5 -5,5 l -2,0 0,10 17,0 z" style="fill:url(#radialGradient3382)" />
-  <path style="fill:#2f343f"  d="m 67,67 v 6.1 h 2 c 2.233297,0 4.211526,-1.869489 4.1,-4.1 v -2 z"/>
-  <path style="fill:#272a33"  d="M 73 67 L 73 69 C 73 71.233297 71.233297 73 69 73 L 67 73 L 67 74 L 69 74 C 71.77 74 74 71.77 74 69 L 74 67 L 73 67 z"/>
+  <path d="m84 67h-10v2c0 2.77-2.23 5-5 5h-2v10h17z" fill="url(#radialGradient3382)"/>
+  <path d="m67 67v6.1h2c2.2333 0 4.2115-1.8695 4.1-4.1v-2z" fill="#2f343f"/>
+  <path d="m73 67v2c0 2.2333-1.7667 4-4 4h-2v1h2c2.77 0 5-2.23 5-5v-2h-1z" fill="#272a33"/>
  </g>
  <g id="decoration-top">
-  <g  transform="matrix(0,-1,-1,0,324,298)">
-   <rect width="50" height="10" x="-307" y="288" transform="matrix(0,-1,1,0,0,0)" style="fill:url(#linearGradient4283)" />
+  <g transform="matrix(0,-1,-1,0,324,298)">
+   <rect transform="rotate(-90)" x="-307" y="288" width="50" height="10" fill="url(#linearGradient4271)"/>
   </g>
-  <path style="fill:#2f343f"  d="M 17,10.9 V 17 h 50 v -6.1 z"/>
-  <path style="fill:#272a33"  d="M 17 10 L 17 11 L 67 11 L 67 10 L 17 10 z"/>
+  <path d="m17 10.9v6.1h50v-6.1z" fill="#2f343f"/>
+  <path d="m17 10v1h50v-1h-50z" fill="#272a33"/>
  </g>
  <g id="decoration-topright">
-  <path d="m 67,0 0,10 2,0 c 2.77,0 5,2.23 5,5 l 0,2 10,0 0,-17 z" style="fill:url(#radialGradient4255)" />
-  <path style="fill:#2f343f"  d="M 67,10.9 V 17 h 6.1 v -2 c 0,-2.233297 -1.866703,-4.1 -4.1,-4.1 z"/>
-  <path style="fill:#272a33"  d="M 67 10 L 67 11 L 69 11 C 71.233297 11 73 12.766703 73 15 L 73 17 L 74 17 L 74 15 C 74 12.23 71.77 10 69 10 L 67 10 z"/>
+  <path d="m67 0v10h2c2.77 0 5 2.23 5 5v2h10v-17z" fill="url(#radialGradient4255)"/>
+  <path d="m67 10.9v6.1h6.1v-2c0-2.2333-1.8667-4.1-4.1-4.1z" fill="#2f343f"/>
+  <path d="m67 10v1h2c2.2333 0 4 1.7667 4 4v2h1v-2c0-2.77-2.23-5-5-5h-2z" fill="#272a33"/>
  </g>
  <g id="decoration-topleft">
-  <path d="m 0,17 10,0 0,-2 c 0,-2.77 2.23,-5 5,-5 L 17,10 17,0 0,0 Z" style="fill:url(#radialGradient4275)" />
-  <path style="fill:#2f343f"  d="m 15,10.9 c -2.233297,0 -4.1,1.866703 -4.1,4.1 v 2 H 17 v -6.1 z"/>
-  <path style="fill:#272a33"  d="M 15 10 C 12.23 10 10 12.23 10 15 L 10 17 L 11 17 L 11 15 C 11 12.766703 12.766703 11 15 11 L 17 11 L 17 10 L 15 10 z"/>
+  <path d="m0 17h10v-2c0-2.77 2.23-5 5-5h2v-10h-17z" fill="url(#radialGradient4275)"/>
+  <path d="m15 10.9c-2.2333 0-4.1 1.8667-4.1 4.1v2h6.1v-6.1z" fill="#2f343f"/>
+  <path d="m15 10c-2.77 0-5 2.23-5 5v2h1v-2c0-2.2333 1.7667-4 4-4h2v-1h-2z" fill="#272a33"/>
  </g>
 </svg>

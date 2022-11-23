@@ -1,29 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" version="1.1">
-<defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5c87cc; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
-  </style>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30" height="30" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5c87cc; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }</style>
  </defs>
- <rect id="hint-tile-center" width="4" height="4" x="0" y="0" style="fill:#ff2a2a"/>
- <rect id="hint-bar-size" width="6" height="6" x="6" y="0" style="fill:#ff2a2a"/>
- <path id="bar-inactive-bottomright" d="m 17,15 v 3 c 1.661989,0 3,-1.338011 3,-3 z" style="opacity:0.2"/>
- <path id="bar-inactive-right" d="m 17,12 v 2 h 3 v -2 z" style="opacity:0.2"/>
- <path id="bar-inactive-topright" d="m 17,8 v 3 h 3 C 20,9.3380111 18.661989,8 17,8 Z" style="opacity:0.2"/>
- <path id="bar-inactive-bottomleft" d="m 10,15 c 0,1.661989 1.338011,3 3,3 v -3 z" style="opacity:0.2"/>
- <path id="bar-inactive-left" d="m 10,12 v 2 h 3 v -2 z" style="opacity:0.2"/>
- <path id="bar-inactive-topleft" d="m 13,8 c -1.661989,0 -3,1.3380111 -3,3 h 3 z" style="opacity:0.2"/>
- <path id="bar-inactive-bottom" d="m 14,15 v 3 h 2 v -3 z" style="opacity:0.2"/>
- <path id="bar-inactive-center" d="m 16,12 h -2 v 2 h 2 z" style="opacity:0.2"/>
- <path id="bar-inactive-top" d="m 14,8 v 3 h 2 V 8 Z" style="opacity:0.2"/>
- <path id="bar-active-bottomright" d="m 17,27 v 3 c 1.661989,0 3,-1.33801 3,-3 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
- <path id="bar-active-right" d="m 17,24 v 2 h 3 v -2 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
- <path id="bar-active-topright" d="m 17,20 v 3 h 3 c 0,-1.66199 -1.338011,-3 -3,-3 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
- <path id="bar-active-bottomleft" d="m 10,27 c 0,1.66199 1.338011,3 3,3 v -3 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
- <path id="bar-active-left" d="m 10,24 v 2 h 3 v -2 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
- <path id="bar-active-topleft" d="m 13,20 c -1.661989,0 -3,1.33801 -3,3 h 3 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
- <path id="bar-active-bottom" d="m 14,27 v 3 h 2 v -3 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
- <path id="bar-active-center" d="m 16,24 h -2 v 2 h 2 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
- <path id="bar-active-top" d="m 14,20 v 3 h 2 v -3 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
- <rect id="hint-stretch-borders" width="3" height="3" x="0" y="6" style="fill:#ff2a2a"/>
- <rect id="hint-bar-stretch" width="3" height="3" x="0" y="11" style="fill:#ff2a2a"/>
+ <rect id="hint-tile-center" width="4" height="4" fill="#ff2a2a"/>
+ <rect id="hint-bar-size" x="6" width="6" height="6" fill="#ff2a2a"/>
+ <path id="bar-inactive-bottomright" d="m17 15v3c1.662 0 3-1.338 3-3z" opacity=".2"/>
+ <path id="bar-inactive-right" d="m17 12v2h3v-2z" opacity=".2"/>
+ <path id="bar-inactive-topright" d="m17 8v3h3c0-1.662-1.338-3-3-3z" opacity=".2"/>
+ <path id="bar-inactive-bottomleft" d="m10 15c0 1.662 1.338 3 3 3v-3z" opacity=".2"/>
+ <path id="bar-inactive-left" d="m10 12v2h3v-2z" opacity=".2"/>
+ <path id="bar-inactive-topleft" d="m13 8c-1.662 0-3 1.338-3 3h3z" opacity=".2"/>
+ <path id="bar-inactive-bottom" d="m14 15v3h2v-3z" opacity=".2"/>
+ <path id="bar-inactive-center" d="m16 12h-2v2h2z" opacity=".2"/>
+ <path id="bar-inactive-top" d="m14 8v3h2v-3z" opacity=".2"/>
+ <path id="bar-active-bottomright" class="ColorScheme-Highlight" d="m17 27v3c1.662 0 3-1.338 3-3z" fill="currentColor"/>
+ <path id="bar-active-right" class="ColorScheme-Highlight" d="m17 24v2h3v-2z" fill="currentColor"/>
+ <path id="bar-active-topright" class="ColorScheme-Highlight" d="m17 20v3h3c0-1.662-1.338-3-3-3z" fill="currentColor"/>
+ <path id="bar-active-bottomleft" class="ColorScheme-Highlight" d="m10 27c0 1.662 1.338 3 3 3v-3z" fill="currentColor"/>
+ <path id="bar-active-left" class="ColorScheme-Highlight" d="m10 24v2h3v-2z" fill="currentColor"/>
+ <path id="bar-active-topleft" class="ColorScheme-Highlight" d="m13 20c-1.662 0-3 1.338-3 3h3z" fill="currentColor"/>
+ <path id="bar-active-bottom" class="ColorScheme-Highlight" d="m14 27v3h2v-3z" fill="currentColor"/>
+ <path id="bar-active-center" class="ColorScheme-Highlight" d="m16 24h-2v2h2z" fill="currentColor"/>
+ <path id="bar-active-top" class="ColorScheme-Highlight" d="m14 20v3h2v-3z" fill="currentColor"/>
+ <rect id="hint-stretch-borders" y="6" width="3" height="3" fill="#ff2a2a"/>
+ <rect id="hint-bar-stretch" y="11" width="3" height="3" fill="#ff2a2a"/>
 </svg>
